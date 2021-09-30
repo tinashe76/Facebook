@@ -1,0 +1,31 @@
+* {
+	color: #fff;
+	font-family: Helvetica, Aria ;
+	background-color: #3b5998;
+}
+
+.form {
+	color: #000;
+	background-color: #f7f7f7;
+	padding: 10px;
+	border-radius: 15px;
+}
+
+#submit {
+	color: #000;
+	background-color: gray;
+	padding-left: 100px;
+	padding-right: 100px;
+	border-radius: 5px;
+	text-decoration-style: solid;
+}
+
+p {
+	font-size: 9px;
+}
+
+h1 {
+	font-size: 15px;
+	color: #fff;
+	text-decoration-style: solid;
+}
